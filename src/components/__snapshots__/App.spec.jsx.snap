@@ -1,0 +1,477 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App Component > Should render App with correct count value as user clicks multiple buttons 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as -1 when clicks decrement button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as -1 when clicks decrement by 5 button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as -5 when clicks decrement by 5 button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as -10 when clicks decrement by 5 button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks decrement button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks decrement by 5 button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks increment button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks increment button 2`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks increment button 3`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks increment button 4`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 1 when clicks increment by 10 button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with count value as 10 when clicks increment by 10 button 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Component > Should render App with initial count value as 0 1`] = `
+<DocumentFragment>
+  <p
+    class="css-1q0vk5q"
+  >
+    Count is 0
+  </p>
+  <div
+    class="css-t1g06b"
+  >
+    <button
+      class="css-v7ifv3"
+    >
+      Increment
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement
+    </button>
+    <button
+      class="css-v7ifv3"
+    >
+      Increment by 10
+    </button>
+    <button
+      class="css-14l5hlq"
+    >
+      Decrement by 5
+    </button>
+  </div>
+</DocumentFragment>
+`;
